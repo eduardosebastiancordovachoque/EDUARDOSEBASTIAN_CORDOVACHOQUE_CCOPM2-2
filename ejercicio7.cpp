@@ -28,7 +28,7 @@ int main()
             c += 1;
         }
     }
-    cout << "El 10 001 primo es: " << primo << std::endl;
+    cout << "El 10 001 primo es: " << primo <<endl;
 
     return 0;
 }
